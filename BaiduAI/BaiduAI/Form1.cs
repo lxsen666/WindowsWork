@@ -32,9 +32,9 @@ namespace BaiduAI
          * 开发者需要在百度AI开放平台注册获取以下三个关键参数
          * 用于API身份验证和安全调用
          */
-        private string APP_ID = "6944914";  // 百度AI开放平台的应用ID，用于标识应用身份
-        private string API_KEY = "AczsKUZ3pa4P16gV8Dn8A2ny";  // API访问密钥，用于接口调用的身份验证
-        private string SECRET_KEY = "2QQe4ZAUdGGeoB78onqw5EN0qaT3xvNY";  // 安全密钥，用于签名生成，确保请求安全性
+        private string APP_ID = "6947059";  // 百度AI开放平台的应用ID，用于标识应用身份
+        private string API_KEY = "2ysNLzkfoOouZ1WOLPjTydRG";  // API访问密钥，用于接口调用的身份验证
+        private string SECRET_KEY = "tcNQd9bOGKQfs6iGPMVhmtJ4RICf34wP";  // 安全密钥，用于签名生成，确保请求安全性
 
         /*
          * 百度AI SDK客户端实例
